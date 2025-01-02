@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "souls:purple_gem_block"
+    }
+  ],
+  "result": {
+    "item": "souls:purple_gem",
+    "count" : 9
+  }
+
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient":{
+    "item": "souls:soul_stone" } ,
+  "result":"souls:chiseled_soul_stone"
+}
