@@ -1,0 +1,11 @@
+{
+  "item.souls.purple_gem": "Purple Gem",
+
+  "block.souls.purple_gem_block": "Purple Gem Block",
+  "block.souls.soul_stone": "Soul Stone",
+  "block.souls.chiseled_soul_stone": "Chiseled Soul Stone",
+  "block.souls.spirit_glass": "Spirit Glass",
+  "block.souls.soul_steel_ore": "Soul Steel Ore",
+
+  "creativetab.soul_sealer": "SoulSealer"
+}

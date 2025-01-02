@@ -1,0 +1,19 @@
+{
+"type": "minecraft:crafting_shaped",
+  "category" : "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "souls:purple_gem"
+    }
+  },
+  "result" :{
+  "item": "souls:purple_gem_block",
+    "count": 1
+}
+
+}
